@@ -1,5 +1,5 @@
 # :wave: Hi, i'm Matt
-:books: Currently on the Professional Software Development course at CodeClan (Python, JS, Java)
+:books: I've just completed the Professional Software Development course at CodeClan (Python, JS, Java)
 
 :scotland: Edinburgh
 
